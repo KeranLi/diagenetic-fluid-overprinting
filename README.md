@@ -16,7 +16,7 @@ Together, these tools enable rigorous assessment of post-depositional alteration
 Micritic carbonates are widely used paleo-elevation proxies, but their δ¹⁸O values are susceptible to diagenetic overprinting by meteoric, marine, and hydrothermal fluids. This computational framework addresses two fundamental uncertainties:
 
 - **Mixing Ambiguity**: Deconvolution of primary vs. diagenetic endmember contributions
-- **Kinetic Overprinting**: Quantification of isotopic re-equilibration during fluid-rock interaction
+- **Kinetic Overprinting**: Quantification of isotopic re-equilibration during fgitluid-rock interaction
 
 The models employ Bayesian MCMC methods and mass-balance principles to propagate uncertainties through the diagenetic system.
 
